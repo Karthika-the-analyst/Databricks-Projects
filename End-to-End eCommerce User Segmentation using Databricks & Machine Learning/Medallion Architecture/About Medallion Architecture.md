@@ -86,11 +86,17 @@ medallion_architecture/
 
 ## 🔄 Data Flow Summary
 AWS S3 (Raw Data)
+
 ↓
+
 Bronze Layer (Raw Delta Tables)
+
 ↓
+
 Silver Layer (Cleaned & Transformed)
+
 ↓
+
 Gold Layer (Aggregated & Business Metrics)
 
 
