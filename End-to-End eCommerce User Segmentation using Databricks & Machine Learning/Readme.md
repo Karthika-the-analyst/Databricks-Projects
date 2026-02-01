@@ -98,7 +98,7 @@ for providing learning resources and hands-on project opportunities.
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** linkedin.com/in/karthika-dataanalyst
+- **LinkedIn:** https://www.linkedin.com/in/karthika-dataanalyst
 - **YouTube:** https://www.youtube.com/@KarthikaDataAnalyst)
 
 
