@@ -70,8 +70,6 @@ Detailed dataset information, source link, and AWS upload steps are available in
   - Machine learning execution
 - Supports scheduled and repeatable runs
 
-Job configuration and workflow images are available in the:
-
 
 ---
 
@@ -83,7 +81,9 @@ Dashboards include:
 - Engagement metrics by segment
 - Business insights and recommendations
 
-Dashboard images and insights are available in:
+### 🔗 Dashboard Link
+👉 **Databricks SQL Dashboard:**  
+[https://<your-databricks-workspace>/sql/dashboards/<dashboard-id>](https://dbc-e2659389-81fe.cloud.databricks.com/dashboardsv3/01f0fc00a37f19d18f546135d0b11859/published?o=7474653933749029)
 
 ---
 
@@ -98,7 +98,7 @@ for providing learning resources and hands-on project opportunities.
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINK
-- **YouTube:** https://www.youtube.com/@YOUR-CHANNEL
+- **LinkedIn:** linkedin.com/in/karthika-dataanalyst
+- **YouTube:** https://www.youtube.com/@KarthikaDataAnalyst)
 
 
