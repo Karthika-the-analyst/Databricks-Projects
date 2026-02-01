@@ -93,3 +93,16 @@ dashboards/
 
 
 ## 📂 Files in This Folder
+
+dashboards/
+┣ 🖼 dashboard_business_kpis.png
+
+┣ 🖼 dashboard_ml_user_segmentation.png
+
+┗ 📄About Dashboard.md
+
+## 🔗 Dashboard Link
+👉 **Databricks SQL Dashboard:**  
+[https://<your-databricks-workspace>/sql/dashboards/<dashboard-id>](https://dbc-e2659389-81fe.cloud.databricks.com/dashboardsv3/01f0fc00a37f19d18f546135d0b11859/published?o=7474653933749029)
+
+> Note: Dashboard access may require Databricks workspace permissions.
