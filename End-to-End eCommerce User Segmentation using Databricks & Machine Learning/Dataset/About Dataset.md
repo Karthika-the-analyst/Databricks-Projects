@@ -52,21 +52,7 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-cat
 
 ## ☁️ Upload Dataset to AWS S3
 
-### 🔧 AWS CLI Commands
-```bash
-# Configure AWS CLI
-aws configure
-
-# Create S3 bucket
-aws s3 mb s3://ecommerce-user-segmentation-bucket
-
-# Upload dataset to S3
-aws s3 cp ./ecommerce_dataset \
-s3://ecommerce-user-segmentation-bucket/raw-data/ \
---recursive
-
-
-  ## 🔗 Load Data into Databricks using External Location
+### 🔗 Load Data into Databricks using External Location
 - External Locations are created using **Unity Catalog**
 - AWS S3 bucket is securely accessed from Databricks
 - Raw data is ingested into the **Bronze layer** of the Medallion Architecture
@@ -81,7 +67,7 @@ Step-by-step tutorial covering:
 - Loading data into Databricks Bronze layer
 
 👉 Watch here:  
-https://www.youtube.com/@YOUR-CHANNEL-NAME
+[https://www.youtube.com/@YOUR-CHANNEL-NAME](https://youtu.be/761SQ9Hxbic?si=TRXr80pctCikV_ni)
 
 ---
 
