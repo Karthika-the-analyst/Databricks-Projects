@@ -19,7 +19,7 @@ The solution follows **Medallion Architecture (Bronze → Silver → Gold)**, us
 - Raw data stored in **AWS S3**
 - Loaded into Databricks using **External Locations**
 
-Detailed dataset information, source link, and AWS upload steps are available in:
+Detailed dataset information, source link, and AWS upload steps are available in: Dataset/About Dataset.md
 
 
 
