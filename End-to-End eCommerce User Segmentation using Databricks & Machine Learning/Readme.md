@@ -89,8 +89,8 @@ Dashboards include:
 
 ## 🙏 Acknowledgements
 Special thanks to:
-- **Codebasics**
-- **Indian Data Club (IDC)**
+- **Codebasics** https://codebasics.io
+- **Indian Data Club (IDC)** https://www.linkedin.com/company/indian-data-club
 - **Databricks**
 
 for providing learning resources and hands-on project opportunities.
